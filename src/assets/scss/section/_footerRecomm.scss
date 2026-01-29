@@ -1,0 +1,74 @@
+.footerRecomm__inner{
+    width: 80vw;
+    max-width: 1480px;
+    padding: 30px 0;
+    margin: 0 auto;
+
+    h2{
+        font-weight: 900;
+        letter-spacing: 0.01em;
+    }
+
+    .recomm__title{
+        width: 100%;
+        height: 32px;
+        border-bottom: 1px solid rgb(210, 210, 210);
+
+        ul{
+            display: flex;
+            height: 100%;
+
+            li{
+                display: inline-block;
+                font-size: 0.8rem;
+                font-weight: bold;
+                margin-right: 25px;
+                height: 100%;
+                cursor: pointer;
+                color: rgb(106, 106, 106);
+                letter-spacing: -0.05rem;
+                
+                &.active{
+                    border-bottom: 2px solid black;
+                    color: black;
+                }
+            }
+        }
+    }
+
+    .recomm__list{
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        row-gap: 20px;
+        padding-top: 30px;
+
+        .recomm__object{
+            font-size: 0.8rem;
+            font-weight: bold;
+            cursor: pointer;
+
+            &.more{
+                grid-column: 1 / -1;
+                text-align: center;
+                padding: 10px;
+                
+                &::after{
+                    content: '';
+                    display: inline-block;
+                    width: 12px;
+                    height: 12px;
+                    background: url(../../img/icon/moreIcon.svg);
+                    margin-left: 7px;
+                }
+            }
+
+            .title{
+                @include line(1)
+            }
+            
+            .docs{
+                color: rgb(150, 150, 150);
+            }
+        }
+    }
+}

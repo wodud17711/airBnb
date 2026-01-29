@@ -14,7 +14,7 @@ export const fukuokaText = [
         price: '152,001',
         rating: '4.89',
         photo: fukuoka01,
-        src: '/rooms'
+        src: '/fukuoka1'
     },
     {
         title: '우미정의 방',
@@ -22,7 +22,7 @@ export const fukuokaText = [
         price: '185,933',
         rating: '4.91',
         photo: fukuoka02,
-        src: '/rooms'
+        src: '/fukuoka2'
     },
     {
         title: '바스페흐빌레의 집',
@@ -30,7 +30,7 @@ export const fukuokaText = [
         price: '460,792',
         rating: '4.82',
         photo: fukuoka03,
-        src: '/rooms'
+        src: '/fukuoka3'
     },
     {
         title: '이토시마시의 게스트용 별채',
@@ -38,7 +38,7 @@ export const fukuokaText = [
         price: '131,245',
         rating: '4.81',
         photo: fukuoka04,
-        src: '/rooms'
+        src: '/fukuoka4'
     },
     {
         title: '미나미구 숙소',
@@ -46,7 +46,7 @@ export const fukuokaText = [
         price: '173,902',
         rating: '4.87',
         photo: fukuoka05,
-        src: '/rooms'
+        src: '/fukuoka5'
     },
     {
         title: '후쿠오카시의 방',
@@ -54,7 +54,7 @@ export const fukuokaText = [
         price: '138,903',
         rating: '4.81',
         photo: fukuoka06,
-        src: '/rooms'
+        src: '/fukuoka6'
     },
     {
         title: '이토시마시의 호텔 다인실',
@@ -62,7 +62,7 @@ export const fukuokaText = [
         price: '129,272',
         rating: '5.0',
         photo: fukuoka07,
-        src: '/rooms'
+        src: '/fukuoka7'
     },
     {
         title: '이토시마시의 저택',
@@ -70,6 +70,6 @@ export const fukuokaText = [
         price: '621,277',
         rating: '4.98',
         photo: fukuoka08,
-        src: '/rooms'
+        src: '/fukuoka8'
     },
 ]

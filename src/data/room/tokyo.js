@@ -14,7 +14,7 @@ export const tokyoText = [
         price: '158,138',
         rating: '5.0',
         photo: tokyo01,
-        src: '/rooms'
+        src: '/tokyo1'
     },
     {
         title: '신주쿠구의 아파트',
@@ -22,7 +22,7 @@ export const tokyoText = [
         price: '252,889',
         rating: '4.78',
         photo: tokyo02,
-        src: '/rooms'
+        src: '/tokyo2'
     },
     {
         title: '타이토구의 호텔',
@@ -30,7 +30,7 @@ export const tokyoText = [
         price: '162,527',
         rating: '4.78',
         photo: tokyo03,
-        src: '/rooms'
+        src: '/tokyo3'
     },
     {
         title: '시나가와구의 방',
@@ -38,7 +38,7 @@ export const tokyoText = [
         price: '196,870',
         rating: '4.98',
         photo: tokyo04,
-        src: '/rooms'
+        src: '/tokyo4'
     },
     {
         title: '스미다구의 방',
@@ -46,7 +46,7 @@ export const tokyoText = [
         price: '159,112',
         rating: '4.95',
         photo: tokyo05,
-        src: '/rooms'
+        src: '/tokyo5'
     },
     {
         title: '스미다구의 아파트',
@@ -54,7 +54,7 @@ export const tokyoText = [
         price: '232,423',
         rating: '5.0',
         photo: tokyo06,
-        src: '/rooms'
+        src: '/tokyo6'
     },
     {
         title: '타이토구의 호텔 객실',
@@ -62,7 +62,7 @@ export const tokyoText = [
         price: '172,891',
         rating: '4.89',
         photo: tokyo07,
-        src: '/rooms'
+        src: '/tokyo7'
     },
     {
         title: '시나가와구의 방',
@@ -70,6 +70,6 @@ export const tokyoText = [
         price: '332,492',
         rating: '4.94',
         photo: tokyo08,
-        src: '/rooms'
+        src: '/tokyo8'
     },
 ]

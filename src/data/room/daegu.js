@@ -14,7 +14,7 @@ export const daeguText = [
         price: '228,235',
         rating: '4.99',
         photo: daegu01,
-        src: '/rooms'
+        src: '/daegu1'
     },
     {
         title: '중구의 아파트',
@@ -22,7 +22,7 @@ export const daeguText = [
         price: '241,930',
         rating: '4.94',
         photo: daegu02,
-        src: '/rooms'
+        src: '/daegu2'
     },
     {
         title: '중구의 아파트',
@@ -30,7 +30,7 @@ export const daeguText = [
         price: '233,941',
         rating: '5.0',
         photo: daegu03,
-        src: '/rooms'
+        src: '/daegu3'
     },
     {
         title: '중구의 아파트',
@@ -38,7 +38,7 @@ export const daeguText = [
         price: '296,706',
         rating: '4.94',
         photo: daegu04,
-        src: '/rooms'
+        src: '/daegu4'
     },
     {
         title: '중구의 아파트',
@@ -46,7 +46,7 @@ export const daeguText = [
         price: '227,094',
         rating: '4.92',
         photo: daegu05,
-        src: '/rooms'
+        src: '/daegu5'
     },
     {
         title: '중구의 아파트',
@@ -54,7 +54,7 @@ export const daeguText = [
         price: '235,197',
         rating: '5.0',
         photo: daegu06,
-        src: '/rooms'
+        src: '/daegu6'
     },
     {
         title: '중구의 아파트',
@@ -62,7 +62,7 @@ export const daeguText = [
         price: '228,235',
         rating: '4.94',
         photo: daegu07,
-        src: '/rooms'
+        src: '/daegu7'
     },
     {
         title: '중구의 집',
@@ -70,6 +70,6 @@ export const daeguText = [
         price: '230,000',
         rating: '5.0',
         photo: daegu08,
-        src: '/rooms'
+        src: '/daegu8'
     },
 ]

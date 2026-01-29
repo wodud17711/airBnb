@@ -14,7 +14,7 @@ export const daejeonText = [
         price: '136,941',
         rating: '4.99',
         photo: daejeon01,
-        src: '/rooms'
+        src: '/daejeon1'
     },
     {
         title: '대전의 호텔',
@@ -22,7 +22,7 @@ export const daejeonText = [
         price: '136,941',
         rating: '4.98',
         photo: daejeon02,
-        src: '/rooms'
+        src: '/daejeon2'
     },
     {
         title: '대전의 아파트',
@@ -30,7 +30,7 @@ export const daejeonText = [
         price: '168,894',
         rating: '4.94',
         photo: daejeon03,
-        src: '/rooms'
+        src: '/daejeon3'
     },
     {
         title: 'Anhyeon-dong의 펜션',
@@ -38,7 +38,7 @@ export const daejeonText = [
         price: '241,980',
         rating: '4.95',
         photo: daejeon04,
-        src: '/rooms'
+        src: '/daejeon4'
     },
     {
         title: '대전의 호텔',
@@ -46,7 +46,7 @@ export const daejeonText = [
         price: '136,941',
         rating: '5.0',
         photo: daejeon05,
-        src: '/rooms'
+        src: '/daejeon5'
     },
     {
         title: '대전의 펜션',
@@ -54,7 +54,7 @@ export const daejeonText = [
         price: '216,824',
         rating: '4.92',
         photo: daejeon06,
-        src: '/rooms'
+        src: '/daejeon6'
     },
     {
         title: '대전의 숙소',
@@ -62,7 +62,7 @@ export const daejeonText = [
         price: '205,412',
         rating: '4.9',
         photo: daejeon07,
-        src: '/rooms'
+        src: '/daejeon7'
     },
     {
         title: '대전의 아파트',
@@ -70,6 +70,6 @@ export const daejeonText = [
         price: '116,160',
         rating: '4.85',
         photo: daejeon08,
-        src: '/rooms'
+        src: '/daejeon8'
     },
 ]
