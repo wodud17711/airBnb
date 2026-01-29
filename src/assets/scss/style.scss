@@ -5,6 +5,7 @@
 @import "setting/common";
 @import "setting/reset";
 @import "setting/vars";
+@import "setting/mixin";
 
 //section
 
@@ -12,3 +13,5 @@
 @import "section/header";
 @import "section/room";
 @import "section/swiper";
+@import "section/footerRecomm";
+@import "section/footerInfo";

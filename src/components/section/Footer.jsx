@@ -1,8 +1,13 @@
 import React from 'react'
+import FooterRecomm from '../footer/FooterRecomm'
+import FooterInfo from '../footer/FooterInfo'
 
 const Footer = () => {
   return (
-    <div id='footer'>Footer</div>
+    <div id='footer'>
+      <FooterRecomm/>
+      <FooterInfo/>
+    </div>
   )
 }
 

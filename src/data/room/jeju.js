@@ -14,7 +14,7 @@ export const jejuText = [
         price: '136,941',
         rating: '4.97',
         photo: jeju01,
-        src: '/rooms'
+        src: '/jeju1'
     },
     {
         title: '제주도의 호텔',
@@ -22,7 +22,7 @@ export const jejuText = [
         price: '86,729',
         rating: '4.95',
         photo: jeju02,
-        src: '/rooms'
+        src: '/jeju2'
     },
     {
         title: '제주시의 펜션',
@@ -30,7 +30,7 @@ export const jejuText = [
         price: '289,859',
         rating: '5.0',
         photo: jeju03,
-        src: '/rooms'
+        src: '/jeju3'
     },
     {
         title: '구좌읍의 게스트용 별채',
@@ -38,7 +38,7 @@ export const jejuText = [
         price: '182,588',
         rating: '4.88',
         photo: jeju04,
-        src: '/rooms'
+        src: '/jeju4'
     },
     {
         title: '제주도의 호텔',
@@ -46,7 +46,7 @@ export const jejuText = [
         price: '110,589',
         rating: '5.0',
         photo: jeju05,
-        src: '/rooms'
+        src: '/jeju5'
     },
     {
         title: '제주시의 아파트',
@@ -54,7 +54,7 @@ export const jejuText = [
         price: '166,612',
         rating: '4.97',
         photo: jeju06,
-        src: '/rooms'
+        src: '/jeju6'
     },
     {
         title: '제주도의 방',
@@ -62,7 +62,7 @@ export const jejuText = [
         price: '136,941',
         rating: '4.93',
         photo: jeju07,
-        src: '/rooms'
+        src: '/jeju7'
     },
     {
         title: '제주시의 펜션',
@@ -70,6 +70,6 @@ export const jejuText = [
         price: '289,859',
         rating: '4.94',
         photo: jeju08,
-        src: '/rooms'
+        src: '/jeju8'
     },
 ] 

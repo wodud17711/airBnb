@@ -14,7 +14,7 @@ export const osakaText = [
         price: '107,749',
         rating: '4.79',
         photo: osaka01,
-        src: '/rooms'
+        src: '/osaka1'
     },
     {
         title: '말론키르멘스키의 아파트',
@@ -22,7 +22,7 @@ export const osakaText = [
         price: '118,123',
         rating: '4.87',
         photo: osaka02,
-        src: '/rooms'
+        src: '/osaka2'
     },
     {
         title: '오사카시의 아파트',
@@ -30,7 +30,7 @@ export const osakaText = [
         price: '183,227',
         rating: '4.88',
         photo: osaka03,
-        src: '/rooms'
+        src: '/osaka3'
     },
     {
         title: '고노하나구의 아파트',
@@ -38,7 +38,7 @@ export const osakaText = [
         price: '139,346',
         rating: '4.98',
         photo: osaka04,
-        src: '/rooms'
+        src: '/osaka4'
     },
     {
         title: '니시나리구의 아파트',
@@ -46,7 +46,7 @@ export const osakaText = [
         price: '132,343',
         rating: '4.9',
         photo: osaka05,
-        src: '/rooms'
+        src: '/osaka5'
     },
     {
         title: '나니와구의 아파트',
@@ -54,7 +54,7 @@ export const osakaText = [
         price: '130,631',
         rating: '4.89',
         photo: osaka06,
-        src: '/rooms'
+        src: '/osaka6'
     },
     {
         title: '말론키르멘스키의 아파트',
@@ -62,7 +62,7 @@ export const osakaText = [
         price: '169,132',
         rating: '4.94',
         photo: osaka07,
-        src: '/rooms'
+        src: '/osaka7'
     },
     {
         title: '니시나리구 숙소',
@@ -70,7 +70,7 @@ export const osakaText = [
         price: '81,702',
         rating: '4.94',
         photo: osaka08,
-        src: '/rooms'
+        src: '/osaka8'
     },
     
 ]

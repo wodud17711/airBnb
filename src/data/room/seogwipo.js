@@ -14,7 +14,7 @@ export const seogwipoText = [
         price: '109,553',
         rating: '5.0',
         photo: seogwipo01,
-        src: '/rooms'
+        src: '/seogwipo1'
     },
     {
         title: '서귀포시의 집',
@@ -22,7 +22,7 @@ export const seogwipoText = [
         price: '155,029',
         rating: '4.88',
         photo: seogwipo02,
-        src: '/rooms'
+        src: '/seogwipo2'
     },
     {
         title: '서귀포시의 집',
@@ -30,7 +30,7 @@ export const seogwipoText = [
         price: '168,038',
         rating: '4.95',
         photo: seogwipo03,
-        src: '/rooms'
+        src: '/seogwipo3'
     },
     {
         title: '서귀포시의 집',
@@ -38,7 +38,7 @@ export const seogwipoText = [
         price: '168,038',
         rating: '4.96',
         photo: seogwipo04,
-        src: '/rooms'
+        src: '/seogwipo4'
     },
     {
         title: '서귀포시의 집',
@@ -46,7 +46,7 @@ export const seogwipoText = [
         price: '155,029',
         rating: '4.94',
         photo: seogwipo05,
-        src: '/rooms'
+        src: '/seogwipo5'
     },
     {
         title: '서귀포시의 펜션',
@@ -54,7 +54,7 @@ export const seogwipoText = [
         price: '251,226',
         rating: '5.0',
         photo: seogwipo06,
-        src: '/rooms'
+        src: '/seogwipo6'
     },
     {
         title: '서귀포시의 호텔',
@@ -62,7 +62,7 @@ export const seogwipoText = [
         price: '120,965',
         rating: '4.97',
         photo: seogwipo07,
-        src: '/rooms'
+        src: '/seogwipo7'
     },
     {
         title: '서귀포시의 펜션',
@@ -70,6 +70,6 @@ export const seogwipoText = [
         price: '144,000',
         rating: '4.99',
         photo: seogwipo08,
-        src: '/rooms'
+        src: '/seogwipo8'
     },
 ]

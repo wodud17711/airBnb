@@ -15,7 +15,7 @@ export const trainingText = [
         place: '마이애미, 미국',
         rating: '5.0',
         photo: training01,
-        src: '/training'
+        src: '/training1'
     },
     {
         title: '줄리아와 함께하는 요가 수련',
@@ -24,7 +24,7 @@ export const trainingText = [
         place: '',
         rating: '5.0',
         photo: training02,
-        src: '/training'
+        src: '/training2'
     },
     {
         title: 'Vicky와 함께하는 에너지 넘치는 운동',
@@ -33,7 +33,7 @@ export const trainingText = [
         place: 'Redondo Beach, 미국',
         rating: '5.0',
         photo: training03,
-        src: '/training'
+        src: '/training3'
     },
     {
         title: '회복 피트니스 by Taylor',
@@ -42,7 +42,7 @@ export const trainingText = [
         place: '로스엔젤레스, 미국',
         rating: '5.0',
         photo: training04,
-        src: '/training'
+        src: '/training4'
     },
     {
         title: '피터와 함께하는 전신 트레이닝',
@@ -51,7 +51,7 @@ export const trainingText = [
         place: '패서디나, 미국',
         rating: '5.0',
         photo: training05,
-        src: '/training'
+        src: '/training5'
     },
     {
         title: '아나 폰조의 리추얼 요가-파르케 메트로폴리타노',
@@ -60,7 +60,7 @@ export const trainingText = [
         place: 'Zapopan, 멕시코',
         rating: '4.89',
         photo: training06,
-        src: '/training'
+        src: '/training6'
     },
     {
         title: '니샨트라와 함께하는 태양 아래에서 땀 흘리기',
@@ -69,6 +69,6 @@ export const trainingText = [
         place: '샌디에이고, 미국',
         rating: '4.9',
         photo: training07,
-        src: '/training'
+        src: '/training7'
     },
 ]

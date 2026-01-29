@@ -14,7 +14,7 @@ export const chefText = [
         reserved: '',
         rating: '4.97',
         photo: chef01,
-        src: '/chef'
+        src: '/chef1'
     },
     {
         title: '현지 식재료로 만든 요리 - Clair',
@@ -22,7 +22,7 @@ export const chefText = [
         reserved: '714,910',
         rating: '5.0',
         photo: chef02,
-        src: '/chef'
+        src: '/chef2'
     },
     {
         title: '불꽃과 퓨전 맛의 비밀을 엿보는 시간',
@@ -30,7 +30,7 @@ export const chefText = [
         reserved: '203,331',
         rating: '5.0',
         photo: chef03,
-        src: '/chef'
+        src: '/chef3'
     },
     {
         title: '리자가 선보이는 활기찬 캘리포니아 - 지중해식 요리',
@@ -38,7 +38,7 @@ export const chefText = [
         reserved: '1,146,148',
         rating: '5.0',
         photo: chef04,
-        src: '/chef'
+        src: '/chef4'
     },
     {
         title: '크리스티나와 함께하는 카탈루냐 요리',
@@ -46,14 +46,14 @@ export const chefText = [
         reserved: '',
         rating: '4.9',
         photo: chef05,
-        src: '/chef'
+        src: '/chef5'
     },
     {
         title: '브라이언과 함께하는 세계 각국의 미식 퓨전 요리',
         priceOne: '128,942',
         rating: '4.89',
         photo: chef06,
-        src: '/chef'
+        src: '/chef6'
     },
     {
         title: '셰프 지미 마티즈가 선사하는 럭셔리 프라이빗 다이닝',
@@ -61,7 +61,7 @@ export const chefText = [
         reserved: '1,862,490',
         rating: '5.0',
         photo: chef07,
-        src: '/chef'
+        src: '/chef7'
     },
     {
         title: '비건 요리 체험: La에서 즐기는 개인 셰프의 채식 요리',
@@ -69,6 +69,6 @@ export const chefText = [
         reserved: '',
         rating: '5.0',
         photo: chef08,
-        src: '/chef'
+        src: '/chef8'
     },
 ]

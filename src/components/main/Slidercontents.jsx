@@ -8,8 +8,15 @@ import { Navigation } from 'swiper/modules';
 
 import nextIcon from '../../assets/img/icon/nextIcon.svg'
 import prevIcon from '../../assets/img/icon/prevIcon.svg'
+import { ReactComponent as Heart } from '../../assets/img/icon/heart-logo.svg'
+import { toggleLike } from '../../features/like/likeSlice';
+import { useDispatch, useSelector } from 'react-redux';
 
 const Slidercontents = ({title, room, id}) => {
+
+  const dispatch = useDispatch();
+  const liked = useSelector(state => state.liked)
+
   return (
     <div className='room__container'>
         <h2>{title}</h2>
@@ -23,11 +30,19 @@ const Slidercontents = ({title, room, id}) => {
           }} 
           modules={[Navigation]} 
           className="mySwiper">
-          {room.map((room, key)=>(
-            <SwiperSlide key={key}>
+          {room.map((room)=>{
+            
+            return(
+
+            <SwiperSlide key={room.src}>
               <Link to={room.src}>
                 <div className='room__photo'>
                   <img src={room.photo} alt={room.title}/>
+                  <Heart className={`heart ${liked[room.src] ? 'like' : ''}`} 
+                  onClick={(e)=>{
+                    e.preventDefault();
+                    dispatch(toggleLike(room.src))
+                  }}/>
                 </div>
                 <div className='room__text'>
                   <div className='room__title'>{room.title}</div>
@@ -40,7 +55,8 @@ const Slidercontents = ({title, room, id}) => {
                 </div>
               </Link>
             </SwiperSlide>
-          ))}
+            );          
+          })}
           </Swiper>
         </div>
         <div className='buttonBox'>

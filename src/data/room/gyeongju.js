@@ -14,7 +14,7 @@ export const gyeongjuText = [
         price: '125,529',
         rating: '4.86',
         photo: gyeongju01,
-        src: '/rooms'
+        src: '/gyeongju1'
     },
     {
         title: '경주시의 호텔',
@@ -22,7 +22,7 @@ export const gyeongjuText = [
         price: '156,000',
         rating: '5.0',
         photo: gyeongju02,
-        src: '/rooms'
+        src: '/gyeongju2'
     },
     {
         title: '경주시의 집',
@@ -30,7 +30,7 @@ export const gyeongjuText = [
         price: '114,118',
         rating: '4.83',
         photo: gyeongju03,
-        src: '/rooms'
+        src: '/gyeongju3'
     },
     {
         title: '경주시의 아파트',
@@ -38,7 +38,7 @@ export const gyeongjuText = [
         price: '388,000',
         rating: '5.0',
         photo: gyeongju04,
-        src: '/rooms'
+        src: '/gyeongju4'
     },
     {
         title: '경주시의 초소형 주택',
@@ -46,7 +46,7 @@ export const gyeongjuText = [
         price: '433,647',
         rating: '5.0',
         photo: gyeongju05,
-        src: '/rooms'
+        src: '/gyeongju5'
     },
     {
         title: '경주시의 집',
@@ -54,7 +54,7 @@ export const gyeongjuText = [
         price: '570,589',
         rating: '4.99',
         photo: gyeongju06,
-        src: '/rooms'
+        src: '/gyeongju6'
     },
     {
         title: 'Wolseong-dong, Gyeongju의 방',
@@ -62,7 +62,7 @@ export const gyeongjuText = [
         price: '203,814',
         rating: '4.89',
         photo: gyeongju07,
-        src: '/rooms'
+        src: '/gyeongju7'
     },
     {
         title: '경주시의 집',
@@ -70,6 +70,6 @@ export const gyeongjuText = [
         price: '342,353',
         rating: '5.0',
         photo: gyeongju08,
-        src: '/rooms'
+        src: '/gyeongju8'
     },
 ]
