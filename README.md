@@ -1,20 +1,30 @@
-## 작업 문서화
+# REACT 연습 에어비앤비 페이지 만들기
 
--  26.01.27
-- 전체 적인 layout 구성과 component, page 를 나눠서 폴더 정리
-- react-route-dom, swiper, sass, react-icon 등 필요한 라이브러리 설치
-- App.js 파일에 BrowserRouter, Suspence fallback 작업 
+## 📌 프로젝트 소개
+이 프로젝트는 React를 더 능숙하게 다루기 위한 연습 프로젝트이다.
 
-*전체적으로 혼자서 백지상태로 시작하기에는 아직은 연습이 더 필요할 것 같다.*
+- 목적: React에 익숙해지기 위한 연습 프로젝트
+- 대상: 나 자신을 위한 연습
+- 특징: react 에서 쓸수있는 유용한 라이브러리들을 사용
 
--  26.01.28
-- 상단 navBar, searchBar 디자인 작업
-- 컴포넌트에 사용 할 연습용 데이터 만들기 작업
-- Slidercontent 컴포넌트를 만들어서 데이터를 props로 전달받아 자동으로 페이지에 그리게 제작
-- 데이터를 중간에 추가해도 망가지지 않는지 실험 완료
-- slider 개별로 작동하게 수정
-- Room, service page에 Slidercontents 적용
-- && *논리 AND 연산자(logical AND operator)* 를 학습 후에 같은 
-    컴포넌트를 사용하더라도 데이터 속 key 값을 조절해 원하는 데이터만 불러올수있게 변경
+---
 
-*일단 전에 만들었던 작업물들을 참고하면서 만드는 중이다.*
+## 🛠 기술 스택
+- Framework: React
+- Language: JavaScript
+- Styling: Sass (SCSS)
+- State Management: Redux Toolkit
+- Build Tool: Create React App
+- 기타: React Router DOM, Swiper
+
+---
+
+## 📁 폴더 구조
+```bash
+src/
+ ├─ app/          # redux store
+ ├─ assets/       # 이미지 및 CSS
+ ├─ components/   # 레이아웃 컴포넌트
+ ├─ data/         # 데이터 파일
+ ├─ features/     # 앱 상태 관리(slice 단위, createSlice 사용)
+ └─ pages/        # 페이지 단위 컴포넌트

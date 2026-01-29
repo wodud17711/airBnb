@@ -15,7 +15,7 @@ import { useDispatch, useSelector } from 'react-redux';
 const Slidercontents = ({title, room, id}) => {
 
   const dispatch = useDispatch();
-  const liked = useSelector(state => state.liked)
+  const liked = useSelector(state => state.liked);
 
   return (
     <div className='room__container'>
